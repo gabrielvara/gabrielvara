@@ -32,6 +32,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-vara/)](https://www.linkedin.com/in/gabriel-vara/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.alvesvara@outlook.com)](mailto:gabriel.alvesvara@outlook.com)
+[![Linkedin](https://img.shields.io/badge/-gabrielvara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-vara/)](https://www.linkedin.com/in/gabriel-vara/)
+[![Gmail Badge](https://img.shields.io/badge/-gabriel.alvesvara@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.alvesvara@outlook.com)](mailto:gabriel.alvesvara@outlook.com)
 [![GitHub](https://img.shields.io/github/followers/gabrielvara?label=follow&style=social)](https://github.com/gabrielvara)
